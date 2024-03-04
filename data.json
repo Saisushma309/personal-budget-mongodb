@@ -1,0 +1,39 @@
+{
+    "myBudget": [
+        {
+            "title": "Eat out",
+            "budget": 25,
+            "color": "#ffcd56"
+        },
+        {
+            "title": "Rent",
+            "budget": 275,
+            "color": "#ff6384"
+        },
+        {
+            "title": "Grocery",
+            "budget": 110,
+            "color": "#36a2eb"
+        },
+        {
+            "title": "Gym",
+            "budget": 20,
+            "color": "#fd6b19"
+        },
+        {
+            "title": "Exams",
+            "budget": 10,
+            "color": "#33FF57"
+        },
+        {
+            "title": "Work",
+            "budget": 5,
+            "color": "#33FFFF"
+        },
+        {
+            "title": "Fuel",
+            "budget": 70,
+            "color": "#FF33FF"
+        }
+    ]
+}
